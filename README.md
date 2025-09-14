@@ -7,6 +7,6 @@ Hi there 👋 I'm Ho Cong Thanh
 🌱 I’m currently into Embedded Systems and IoT applications.
 
 <div align = "center">
-<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg" />
 <br>
 <div>
