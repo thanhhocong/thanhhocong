@@ -6,7 +6,7 @@ Hi there 👋 I'm Ho Cong Thanh
 
 🌱 I’m currently into Embedded Systems and IoT applications.
 
-* <img align="center" src="./images/LinkedIn_logo_initials.png" title = "LinkedIn" alt="" height="20" /> [in/thanhhocong](https://www.linkedin.com/in/thanhhocong)
+* <img align="center" src="./images/LinkedIn_logo_initials.png" title = "LinkedIn" alt="" height="20" /> [in/thanh63](https://www.linkedin.com/in/thanh63)
 
 * <img align="center" src="./images/Gmail_icon.png" title = "Gmail" alt="" height="20" /> [thanh.hocong@hcmut.edu.vn](thanh.hocong@hcmut.edu.vn)
 
