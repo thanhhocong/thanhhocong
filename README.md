@@ -2,9 +2,18 @@
 
 Hi there 👋 I'm Ho Cong Thanh 
 
-🔭 CE Student at HCMUT-VNUHCM
+Embedded Systems student at Ho Chi Minh City University of Technology (HCMUT), passionate about bridging hardware and software to build intelligent, efficient systems.
+I'm currently developing my skills in microcontroller programming, circuit design, and low-level software development. My coursework and personal projects have given me hands-on experience with C/C++, real-time systems, and embedded architectures.
+I'm actively seeking internship opportunities where I can contribute to real-world embedded systems projects while learning from experienced engineers. I'm particularly interested in roles that involve firmware development, system integration, and IoT applications.
+Technical interests:
 
-🌱 I’m currently into Embedded Systems and IoT applications.
+Microcontroller programming (ARM, AVR, ESP32)
+Embedded C/C++ development
+RTOS and real-time applications
+Hardware-software co-design
+IoT and sensor integration
+
+Open to internships and collaborative projects. Let's connect!
 
 * <img align="center" src="./images/LinkedIn_logo_initials.png" title = "LinkedIn" alt="" height="20" /> [in/thanh63](https://www.linkedin.com/in/thanh63)
 
